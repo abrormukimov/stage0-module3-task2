@@ -2,17 +2,13 @@ package lang.print.gaps.task2;
 
 public class CopiedNames {
     public static void main(String[] args) {
-        int zero = 0;
-        int twoThousand = 2000;
-        int thousand = 1000;
-        int fourThousand = 4000;
-        int threeThousand = 3000;
-        int fiveThousand = 5000;
-        int sevenThousand = 7000;
-        int ninetyThousand = 90000;
-        int oneHundredThousand = 100000;
-        int million = 1000000;
-        int number = 1234567;
-        int numberTwo = 1234567;
+        final int ZERO = 0;
+        int year = 2000;
+        int bookValue = 1000;
+        int price = 4000;
+        int passcode = 3000;
+        int savings = 5000;
+        int stocksQuantity = 7000;
+        int carPrice = 90000;
     }
 }
